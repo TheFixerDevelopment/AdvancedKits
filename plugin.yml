@@ -1,8 +1,8 @@
 name: AdvancedKits
 main: AdvancedKits\Main
-version: 5.1.0-8
-api: [3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10]
-author: luca28pet
+version: 5.1.0-9
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11]
+author: [luca28pet / VMPE Development Team]
 softdepend: ["PiggyCustomEnchants"]
 description: Add kits to your server
 website: https://github.com/luca28pet/AdvancedKits
